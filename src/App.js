@@ -1,9 +1,16 @@
+import Main from "./component/body/Main";
+import Navbar from "./component/header/Navbar";
 
 function App() {
   return (
-    <div className="App">
-     
-    </div>
+    <>
+      <div className="header">
+        <Navbar />
+      </div>
+      <div className="section">
+        <Main />
+      </div>
+    </>
   );
 }
 
