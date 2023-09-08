@@ -10,11 +10,11 @@ const Navbar = () => {
 
             {/* Right side of Navbar */}
             <div className="pages">
-                <ul className="pageList">
+                <ul className="pageList d-flex  flex-wrap">
                     <li className="page"> <a href='/'> Home</a> </li>
-                    <li className="page"> <a href='/'> Projects</a> </li>
-                    <li className="page"> <a href='/'> Services</a> </li>
-                    <li className="page"> <a href='/'> Contact Me</a> </li>
+                    <li className="page"> <a href='#projects'> Projects</a> </li>
+                    <li className="page"> <a href='#aboutMe'> About Me</a> </li>
+                    <li className="page"> <a href='#contactMe'> Contact Me</a> </li>
                 </ul>
             </div>
             

@@ -49,13 +49,14 @@ nav {
 }
 
 .pageList .page {
-  padding: 1rem 2rem;
+  padding: 1rem 1rem;
   list-style: none;
 }
 
 .pageList .page a {
   text-decoration: none;
   color: white;
+  font-size: 14px;
 }
 
 .pageList .page a:hover {
@@ -174,4 +175,10 @@ nav {
 .fourthSection .btn:active {
   transform: scale(1.0);
   color: grey;
+}
+
+.lastSection{
+  background-color: #18163b;
+  margin-top: 3rem;
+  padding-top: 3rem;
 }
