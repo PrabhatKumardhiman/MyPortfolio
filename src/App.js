@@ -7,7 +7,7 @@ function App() {
       <div className="header">
         <Navbar />
       </div>
-      <div className="section">
+      <div className="main">
         <Main />
       </div>
     </>

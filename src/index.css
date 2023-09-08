@@ -15,7 +15,7 @@ body {
 
 /* Utility CSS */
 
-.purple{
+.yellow {
   color: #E5C229;
   font-weight: 700;
 }
@@ -26,6 +26,8 @@ nav {
   justify-content: space-around;
   align-items: center;
   background-color: #18163b;
+  padding: 0.75rem 0;
+  display: none;
 }
 
 .logo {
@@ -51,26 +53,125 @@ nav {
   list-style: none;
 }
 
-.pageList .page a{
+.pageList .page a {
   text-decoration: none;
   color: white;
 }
 
-.pageList .page a:hover{
+.pageList .page a:hover {
   color: #E5C32B;
   border-bottom: 0.5px solid #E5C229;
 }
 
-.container  .myIntro {
+.firstSection .container .row{
+  height: 470px;
+}
+.container .row .myIntro {
+  display: flex;
   padding: 0;
   margin: 0;
-  text-align: center;
 }
 
-.mainRight .developerImg{
+.mainLeft .btns .btn {
+  margin-top: 1rem;
+}
+
+.mainLeft .btns .btn {
+  border: 1px solid rgb(32, 32, 56);
+  color: white;
+  padding: 0.5rem 1rem;
+  background-color: #18163b;
+  cursor: pointer;
+}
+
+.mainLeft .btns .btn:hover {
+  transform: scale(1.1);
+}
+
+.mainLeft .btns .btn:active {
+  transform: scale(1.0);
+  color: grey;
+}
+
+
+
+.mainRight .developerImg {
   width: 80%;
   margin: 1rem 0;
 }
 
+.mainHr {
+  border: 0;
+  background-color: #6a6a87;
+  height: 2px;
+  margin: 2rem 4rem;
+}
 
 
+.secondSection .trackerBox {
+  margin: 1rem 0;
+}
+
+.secondSection .trackerBox .horizontalLine {
+  background: white;
+  width: 100%;
+  height: 2px;
+  margin: 0;
+  padding: 0;
+}
+
+.trackerBox .row .col {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+}
+
+.trackerBox .row .verticalLine {
+  height: 100px;
+  width: 1px;
+  background: white;
+}
+
+.trackerBox .row .mycol{
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+.trackerBox .row .trackerBoxDescription{
+  color: grey;
+  font-size: small;
+  font-weight: 200;
+}
+
+.fourthSection .border{
+  background-color: #18163b;
+  border: 1px solid rgb(32, 32, 56)!important;
+}
+
+.fourthSection .border:hover{
+  transform: scale(1.01);
+}
+
+.fourthSection .btn {
+  margin-top: 1rem;
+}
+
+.fourthSection .btn {
+  border: 1px solid rgb(32, 32, 56);
+  color: white;
+  padding: 0.5rem 1rem;
+  background-color: #18163b;
+  cursor: pointer;
+}
+
+.fourthSection .btn:hover {
+  transform: scale(1.1);
+}
+
+.fourthSection .btn:active {
+  transform: scale(1.0);
+  color: grey;
+}
