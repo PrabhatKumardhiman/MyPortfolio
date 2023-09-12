@@ -5,7 +5,7 @@ const Navbar = () => {
         <nav class="nav">
             {/* left side of Navbar */}
             <div className="logo">
-                <h5> Prabhat Portfolio</h5>
+                <h5 className=""> Prabhat Portfolio</h5>
             </div>
 
             {/* Right side of Navbar */}
