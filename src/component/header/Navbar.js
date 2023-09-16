@@ -11,7 +11,7 @@ const Navbar = () => {
             {/* Right side of Navbar */}
             <div className="pages">
                 <ul className="pageList d-flex  flex-wrap">
-                    <li className="page"> <a href='/'> Home</a> </li>
+                    <li className="page"> <a href='#home'> Home</a> </li>
                     <li className="page"> <a href='#projects'> Projects</a> </li>
                     <li className="page"> <a href='#aboutMe'> About Me</a> </li>
                     <li className="page"> <a href='#contactMe'> Contact Me</a> </li>

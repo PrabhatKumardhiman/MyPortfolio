@@ -11,7 +11,7 @@ const Main = () => {
     // Adding Animation of typing On Load
     useEffect(() => {
         const typed = new Typed(text.current, {
-            strings: ['Web Developer', 'React.js Developer', '&amp; Web Designer'],
+            strings: ['Web Developer', 'Web Designer', '&amp; MERN Stack Developer'],
             typeSpeed: 70,
         });
 
@@ -24,7 +24,7 @@ const Main = () => {
 
     return (
         <>
-            <section className="firstSection">
+            <section className="firstSection" id='home'>
                 <div className="container my-3">
                     <div className="row d-flex align-items-center justify-content-center">
                         <div className="mainRight col-12 col-md-6 d-flex align-items-center justify-content-center " >
@@ -56,32 +56,32 @@ const Main = () => {
                         <div className="row gap-0 px-md-5 mx-md-5 mb-5 ">
                             <div className="col-12 col-md-2 mycol">
                                 <div className="verticalLine"></div>
-                                <div className="trackerBoxTitle">ImageX</div>
+                                <div className="trackerBoxTitle"><a className = "text-decoration-none yellow" href="https://prabhatkumardhiman.github.io/ImageX/">ImageX</a></div>
                                 <div className="trackerBoxDescription">ImageX is your go-to platform for effortlessly finding the images you desire. Whether you're searching for breathtaking landscapes, cute animal photos, or inspiration for your next project, ImageX has you covered. With a user-friendly interface and powerful search algorithms, our platform allows users to enter keywords or use advanced filters to pinpoint the perfect image. Explore a vast library of high-quality images from various sources and discover the visual content that resonates with you. ImageX simplifies the search process and brings your vision to life with just a few clicks. Say goodbye to endless scrolling and hello to a more efficient, enjoyable image search experience with ImageX.</div>
                             </div>
                             <div className="col-12 col-md-2 mycol">
                                 <div className="verticalLine"></div>
-                                <div className="trackerBoxTitle">CipherVault</div>
+                                <div className="trackerBoxTitle"><a className = "text-decoration-none yellow" href="https://ciphervault-xqwt.onrender.com/">CipherVault</a></div>
                                 <div className="trackerBoxDescription">CipherVault is a user-friendly password management solution designed to help you safeguard and organize your digital credentials effortlessly. With CipherVault, you can securely store, generate, and access your passwords and sensitive information, all within a highly encrypted and easily accessible platform. Say goodbye to the stress of remembering numerous passwords and enjoy peace of mind knowing your digital life is protected with CipherVault.</div>
                             </div>
                             <div className="col-12 col-md-2 mycol">
                                 <div className="verticalLine"></div>
-                                <div className="trackerBoxTitle">WeatherApp</div>
+                                <div className="trackerBoxTitle"><a className = "text-decoration-none yellow" href="https://prabhatkumardhiman.github.io/WeatherApp/">WeatherApp</a></div>
                                 <div className="trackerBoxDescription">WeatherApp is your one-stop solution for up-to-the-minute weather information. Whether you're planning a weekend getaway, organizing outdoor activities, or simply want to stay prepared for the day ahead, WeatherApp has you covered. With a user-friendly interface and real-time data, you can easily access accurate weather forecasts, current conditions, and detailed meteorological insights for any location worldwide. Stay informed, make informed decisions, and never be caught off guard by the weather again with WeatherApp. Stay ahead of the elements, with WeatherApp!</div>
                             </div>
                             <div className="col-12 col-md-2 mycol">
                                 <div className="verticalLine"></div>
-                                <div className="trackerBoxTitle">Calculator</div>
+                                <div className="trackerBoxTitle"><a className = "text-decoration-none yellow" href="https://prabhatkumardhiman.github.io/Calculator/">Calculator</a></div>
                                 <div className="trackerBoxDescription">This simple yet stylish calculator combines the beauty of minimalist design with the efficiency of a powerful calculation tool. With its intuitive interface and modern aesthetic, it's perfect for anyone seeking a calculator that not only performs calculations with precision but also elevates your workspace with its timeless elegance. Experience the perfect blend of functionality and aesthetics with our simple but stylish calculator.</div>
                             </div>
                             <div className="col-12 col-md-2 mycol">
                                 <div className="verticalLine"></div>
-                                <div className="trackerBoxTitle">BMI-Calculator</div>
+                                <div className="trackerBoxTitle"><a className = "text-decoration-none yellow" href="https://prabhatkumardhiman.github.io/BMI-Calculator/">BMI-Calculator</a></div>
                                 <div className="trackerBoxDescription">Introducing our sleek and user-friendly BMI Calculator – your go-to tool for effortless health monitoring. Our simple yet stylish app empowers you to calculate your Body Mass Index with ease, helping you gain valuable insights into your overall health and fitness. With a clean and intuitive interface, it's never been this convenient to track your wellness journey. Stay on top of your health goals with our BMI Calculator, where simplicity meets style.</div>
                             </div>
                             <div className="col-12 col-md-2 mycol">
                                 <div className="verticalLine"></div>
-                                <div className="trackerBoxTitle">CloudBook</div>
+                                <div className="trackerBoxTitle"><a className = "text-decoration-none yellow" href="https://prabhatkumardhiman.github.io/CloudBook/">CloudBook</a></div>
                                 <div className="trackerBoxDescription">CloudBook is a cutting-edge cloud-based Node.js application designed to revolutionize the way you manage your day-to-day notes. With seamless accessibility from any device with an internet connection, CloudBook ensures that your notes are always at your fingertips, whether you're at home, in the office, or on the go. Say goodbye to scattered sticky notes and disorganized notebooks—CloudBook streamlines your note-taking process, offering secure storage, easy retrieval, and an intuitive user interface. Elevate your productivity and organization with CloudBook, your go-to platform for effortless note management in the digital age.</div>
                             </div>
                         </div>

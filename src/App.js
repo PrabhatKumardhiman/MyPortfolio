@@ -4,7 +4,7 @@ import Navbar from "./component/header/Navbar";
 function App() {
   return (
     <>
-      <div className="header">
+      <div className="header sticky-top">
         <Navbar />
       </div>
       <div className="main">
