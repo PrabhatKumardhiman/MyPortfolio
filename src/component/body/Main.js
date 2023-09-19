@@ -188,22 +188,22 @@ const Main = () => {
                             <h5>React.Js Projects</h5>
                             <ul className="nav flex-column">
                                 <li className="nav-item mb-2">
-                                    <a href="/https://github.com/PrabhatKumardhiman/ImageX" className="nav-link p-0 text-light">
+                                    <a href="https://github.com/PrabhatKumardhiman/ImageX" className="nav-link p-0 text-light">
                                         ImageX
                                     </a>
                                 </li>
                                 <li className="nav-item mb-2">
-                                    <a href="/https://github.com/PrabhatKumardhiman/WeatherApp" className="nav-link p-0 text-light">
+                                    <a href="https://github.com/PrabhatKumardhiman/WeatherApp" className="nav-link p-0 text-light">
                                         WeatherApp
                                     </a>
                                 </li>
                                 <li className="nav-item mb-2">
-                                    <a href="/https://github.com/PrabhatKumardhiman/Calculator" className="nav-link p-0 text-light">
+                                    <a href="https://github.com/PrabhatKumardhiman/Calculator" className="nav-link p-0 text-light">
                                         Calculator
                                     </a>
                                 </li>
                                 <li className="nav-item mb-2">
-                                    <a href="/https://github.com/PrabhatKumardhiman/BMI-Calculator" className="nav-link p-0 text-light">
+                                    <a href="https://github.com/PrabhatKumardhiman/BMI-Calculator" className="nav-link p-0 text-light">
                                         BMI-Calculator
                                     </a>
                                 </li>
@@ -213,12 +213,12 @@ const Main = () => {
                             <h5>Node.Js Projects</h5>
                             <ul className="nav flex-column">
                                 <li className="nav-item mb-2">
-                                    <a href="/https://github.com/PrabhatKumardhiman/CipherVault" className="nav-link p-0 text-light">
+                                    <a href="https://6509fd9b5bf8994208ce30d7--vermillion-peony-51e7b3.netlify.app" className="nav-link p-0 text-light">
                                         CipherVault
                                     </a>
                                 </li>
                                 <li className="nav-item mb-2">
-                                    <a href="/https://github.com/PrabhatKumardhiman/CloudBook" className="nav-link p-0 text-light">
+                                    <a href="https://6509fd9b5bf8994208ce30d7--vermillion-peony-51e7b3.netlify.app" className="nav-link p-0 text-light">
                                         CloudBook
                                     </a>
                                 </li>
