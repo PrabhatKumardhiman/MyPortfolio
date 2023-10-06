@@ -52,37 +52,50 @@ const Main = () => {
                     <h1 className='fs-3 yellow'>Past Experience</h1>
 
                     <div className="trackerBox">
-                        <div className="horizontalLine"></div>
                         <div className="row gap-0 px-md-5 mx-md-5 mb-5 ">
+                        <div className="horizontalLine"></div>
                             <div className="col-12 col-md-2 mycol">
                                 <div className="verticalLine"></div>
-                                <div className="trackerBoxTitle"><a className = "text-decoration-none yellow" href="https://prabhatkumardhiman.github.io/ImageX/">ImageX</a></div>
+                                <div className="trackerBoxTitle"><a className="text-decoration-none yellow" href="https://prabhatkumardhiman.github.io/ImageX/">ImageX</a></div>
                                 <div className="trackerBoxDescription">ImageX is your go-to platform for effortlessly finding the images you desire. Whether you're searching for breathtaking landscapes, cute animal photos, or inspiration for your next project, ImageX has you covered. With a user-friendly interface and powerful search algorithms, our platform allows users to enter keywords or use advanced filters to pinpoint the perfect image. Explore a vast library of high-quality images from various sources and discover the visual content that resonates with you. ImageX simplifies the search process and brings your vision to life with just a few clicks. Say goodbye to endless scrolling and hello to a more efficient, enjoyable image search experience with ImageX.</div>
                             </div>
                             <div className="col-12 col-md-2 mycol">
                                 <div className="verticalLine"></div>
-                                <div className="trackerBoxTitle"><a className = "text-decoration-none yellow" href="https://ciphervault-xqwt.onrender.com/">CipherVault</a></div>
+                                <div className="trackerBoxTitle"><a className="text-decoration-none yellow" href="https://ciphervault.netlify.app/">CipherVault</a></div>
                                 <div className="trackerBoxDescription">CipherVault is a user-friendly password management solution designed to help you safeguard and organize your digital credentials effortlessly. With CipherVault, you can securely store, generate, and access your passwords and sensitive information, all within a highly encrypted and easily accessible platform. Say goodbye to the stress of remembering numerous passwords and enjoy peace of mind knowing your digital life is protected with CipherVault.</div>
                             </div>
                             <div className="col-12 col-md-2 mycol">
                                 <div className="verticalLine"></div>
-                                <div className="trackerBoxTitle"><a className = "text-decoration-none yellow" href="https://prabhatkumardhiman.github.io/WeatherApp/">WeatherApp</a></div>
+                                <div className="trackerBoxTitle"><a className="text-decoration-none yellow" href="https://prabhatkumardhiman.github.io/WeatherApp/">WeatherApp</a></div>
                                 <div className="trackerBoxDescription">WeatherApp is your one-stop solution for up-to-the-minute weather information. Whether you're planning a weekend getaway, organizing outdoor activities, or simply want to stay prepared for the day ahead, WeatherApp has you covered. With a user-friendly interface and real-time data, you can easily access accurate weather forecasts, current conditions, and detailed meteorological insights for any location worldwide. Stay informed, make informed decisions, and never be caught off guard by the weather again with WeatherApp. Stay ahead of the elements, with WeatherApp!</div>
                             </div>
                             <div className="col-12 col-md-2 mycol">
                                 <div className="verticalLine"></div>
-                                <div className="trackerBoxTitle"><a className = "text-decoration-none yellow" href="https://prabhatkumardhiman.github.io/Calculator/">Calculator</a></div>
+                                <div className="trackerBoxTitle"><a className="text-decoration-none yellow" href="https://prabhatkumardhiman.github.io/Calculator/">Calculator</a></div>
                                 <div className="trackerBoxDescription">This simple yet stylish calculator combines the beauty of minimalist design with the efficiency of a powerful calculation tool. With its intuitive interface and modern aesthetic, it's perfect for anyone seeking a calculator that not only performs calculations with precision but also elevates your workspace with its timeless elegance. Experience the perfect blend of functionality and aesthetics with our simple but stylish calculator.</div>
                             </div>
                             <div className="col-12 col-md-2 mycol">
                                 <div className="verticalLine"></div>
-                                <div className="trackerBoxTitle"><a className = "text-decoration-none yellow" href="https://prabhatkumardhiman.github.io/BMI-Calculator/">BMI-Calculator</a></div>
-                                <div className="trackerBoxDescription">Introducing our sleek and user-friendly BMI Calculator – your go-to tool for effortless health monitoring. Our simple yet stylish app empowers you to calculate your Body Mass Index with ease, helping you gain valuable insights into your overall health and fitness. With a clean and intuitive interface, it's never been this convenient to track your wellness journey. Stay on top of your health goals with our BMI Calculator, where simplicity meets style.</div>
+                                <div className="trackerBoxTitle"><a className="text-decoration-none yellow" href="https://prabhatkumardhiman.github.io/ypatrol-bank-details/">Bankify</a></div>
+                                <div className="trackerBoxDescription">Introducing "Bankify Weather Insights" – a cutting-edge project that seamlessly combines financial data and real-time weather information. Built using Node.js and Express for the robust backend and featuring a sleek React and Bootstrap frontend, Bankify Weather Insights is your one-stop solution for storing bank information alongside the latest weather updates.
+
+                                    With the power of RESTful APIs, this innovative platform allows users to effortlessly retrieve bank details by entering the IFSC code. Simultaneously, it provides city-specific weather insights, ensuring you're always in the know about local conditions.
+
+                                    Experience the fusion of finance and meteorology like never before with Bankify Weather Insights – where banking meets weather forecasting, and convenience meets sophistication. </div>
                             </div>
                             <div className="col-12 col-md-2 mycol">
                                 <div className="verticalLine"></div>
-                                <div className="trackerBoxTitle"><a className = "text-decoration-none yellow" href="https://prabhatkumardhiman.github.io/CloudBook/">CloudBook</a></div>
-                                <div className="trackerBoxDescription">CloudBook is a cutting-edge cloud-based Node.js application designed to revolutionize the way you manage your day-to-day notes. With seamless accessibility from any device with an internet connection, CloudBook ensures that your notes are always at your fingertips, whether you're at home, in the office, or on the go. Say goodbye to scattered sticky notes and disorganized notebooks—CloudBook streamlines your note-taking process, offering secure storage, easy retrieval, and an intuitive user interface. Elevate your productivity and organization with CloudBook, your go-to platform for effortless note management in the digital age.</div>
+                                <div className="trackerBoxTitle"><a className="text-decoration-none yellow" href="https://prabhatkumardhiman.github.io/Beer/">Beer App</a></div>
+                                <div className="trackerBoxDescription">Beerpedia is your go-to beer app, offering a diverse and extensive collection of beers from around the world, all at your fingertips. Whether you're a seasoned beer enthusiast or just looking to discover new flavors, Beerpedia has you covered. This innovative app is developed using React.js and leverages RESTful APIs to provide an unparalleled user experience.
+
+                                </div>
+                            </div>
+                        <div className="horizontalLine mt-4"></div>
+                            <div className="col-12 col-md-2 mycol">
+                                <div className="verticalLine"></div>
+                                <div className="trackerBoxTitle"><a className="text-decoration-none yellow" href="https://cloudbook-prabhat.netlify.app/">CloudBook</a></div>
+                                <div className="trackerBoxDescription">CloudBook is a cutting-edge cloud-based Node.js application designed to revolutionize the way you manage your day-to-day notes. With seamless accessibility from any device with an internet connection, CloudBook ensures that your notes are always at your fingertips, whether you're at home, in the office, or on the go. Say goodbye to scattered sticky notes and disorganized notebooks—CloudBook streamlines your note-taking process, offering secure storage, easy retrieval, and an intuitive user interface. Elevate your productivity and organization with CloudBook, your go-to platform for effortless note management in the digital age.
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -133,7 +146,7 @@ const Main = () => {
                                     <label htmlFor="exampleInputEmail1" className=" fs-5 fs-5">
                                         Email address
                                     </label>
-                                    <h6 className = "yellow" style={{fontSize : "12px"}}>
+                                    <h6 className="yellow" style={{ fontSize: "12px" }}>
                                         prabhatkumardhi@gmail.com
                                     </h6>
                                 </div>
@@ -141,7 +154,7 @@ const Main = () => {
                                     <label htmlFor="exampleInputEmail1" className=" fs-5">
                                         Name
                                     </label>
-                                    <h6 className = "yellow" style={{fontSize : "12px"}}>
+                                    <h6 className="yellow" style={{ fontSize: "12px" }}>
                                         Prabhat Kumar
                                     </h6>
                                 </div>
@@ -149,10 +162,10 @@ const Main = () => {
                                     <label htmlFor="exampleInputEmail1" className=" fs-5">
                                         Phone No.
                                     </label>
-                                    <h6 className = "yellow" style={{fontSize : "12px"}}>
+                                    <h6 className="yellow" style={{ fontSize: "12px" }}>
                                         +91-8057688368
                                     </h6>
-                                    <h6 className = "yellow" style={{fontSize : "12px"}}>
+                                    <h6 className="yellow" style={{ fontSize: "12px" }}>
                                         +91-9837470197
                                     </h6>
                                 </div>
@@ -160,7 +173,7 @@ const Main = () => {
                                     <label htmlFor="exampleInputEmail1" className=" fs-5">
                                         Current Location
                                     </label>
-                                    <h6 className = "yellow" style={{fontSize : "12px"}}>
+                                    <h6 className="yellow" style={{ fontSize: "12px" }}>
                                         Sector - 72, Noida, UttarPradesh (201304)
                                     </h6>
                                 </div>
@@ -168,11 +181,11 @@ const Main = () => {
                                     <label htmlFor="exampleInputEmail1" className=" fs-5">
                                         HomeTown
                                     </label>
-                                    <h6 className = "yellow" style={{fontSize : "12px"}}>
+                                    <h6 className="yellow" style={{ fontSize: "12px" }}>
                                         Jwalapur, Haridwar, Uttarakhand (249407)
                                     </h6>
                                 </div>
-                                
+
                             </div>
 
                         </div>
@@ -231,7 +244,7 @@ const Main = () => {
                                 <p><a className='text-decoration-none yellow' href="https://www.linkedin.com/in/prabhat-kumar-a3b5ba1a4/" target='blank'>LinkedIn</a></p>
                                 <p><a className='text-decoration-none yellow' href="https://github.com/PrabhatKumardhiman" target='blank'>GitHub</a></p>
                                 <p><a className='text-decoration-none yellow' href="https://github.com/PrabhatKumardhiman" target='blank'>Naukri</a></p>
-                                
+
                             </div>
                         </div>
                     </footer>
